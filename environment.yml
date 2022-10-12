@@ -178,7 +178,6 @@ dependencies:
     - python-dotenv==0.21.0
     - pytz==2022.2.1
     - pytz-deprecation-shim==0.1.0.post0
-    - pywin32==304
     - pyyaml==5.4.1
     - pyzmq==24.0.1
     - querystring-parser==1.2.4
