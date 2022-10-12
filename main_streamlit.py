@@ -53,8 +53,6 @@ classification_method = form.radio(
         "tfidf_custom_ml",
         "tfidf_custom_dl_keras",
         "embedding_custom_ml",
-        "embedding_custom_dl",
-        "embedding_hugging_face",
         "embedding_sentence_transformer_custom_dl",
     ),
 )

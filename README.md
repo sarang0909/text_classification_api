@@ -29,7 +29,7 @@ If you are only looking to learn/use model building techniques,directly jump to 
 7.[Text Classification using sentence transformer embeddings and custom neural network using Pytorch](src/training/embedding_sentence_transformer_custom_dl.ipynb)    
 
 
-The basic code template for this project is derived from <a href="https://github.com/sarang0909/Code_Template">code template</a> 
+The basic code template for this project is derived from my another repo <a href="https://github.com/sarang0909/Code_Template">code template</a> 
 
 The project considers following phases in ML project development lifecycle:  
 Requirement    
@@ -46,7 +46,7 @@ Create a text classification api which accepts a news article or a sentence from
 
 ### Data Collection   
 
-News article data is collected by refering <a href="https://github.com/sarang0909/news_api">news api</a>. 
+News article data is collected by refering my another repo <a href="https://github.com/sarang0909/news_api">news api</a>. 
 
 Then sample 100 sentences annotated using <a href="https://github.com/sarang0909/news_api">doccano</a>,a data annotation tool. Please note that since this is just a demo project,we have not used huge data. We have used only 100 sentences. In reality,data might be huge and any other data annotation technique can be used.  
 

@@ -42,7 +42,6 @@ class TfIdfCustomDlKerasPredictor(Predictor):
         tf_idf = self.get_tf_idf_vectorizer()
         model = self.get_model()
         test_input = tf_idf.transform([input_data]).toarray()
-
         return model.predict(test_input).argmax().item()
 
     def get_tf_idf_vectorizer(self):
