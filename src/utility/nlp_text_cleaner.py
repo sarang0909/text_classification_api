@@ -71,7 +71,7 @@ def remove_punctuation(text):
         str: text without punctuations
     """
 
-    text = "".join(
+    text = " ".join(
         [
             word
             for word in word_tokenize(text)
@@ -97,7 +97,7 @@ def remove_unicode(text):
         text,
     )
 
-    return "".join(text.split())
+    return " ".join(text.split())
 
 
 def remove_leading_trailing_whitespaces(text):
