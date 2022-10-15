@@ -3,6 +3,8 @@
 
 ## About  
 This is a project developed to create a code template and to understand different text classification techniques. This project includes different training notebooks to create different kind of text classification models. This project also includes a code to make productionaized text classification api using standard practices in MLOps.   
+The models are developed on very small data.     
+
 
 ### NLP and MLOps techniques to learn/use from this end to end project:
 1. collect,clean,annotate text data   
@@ -38,6 +40,8 @@ Model Building
 Inference   
 Testing     
 Deployment   
+
+We have not considered model evaluation and monitoring.   
 
 
 ### Requirement
