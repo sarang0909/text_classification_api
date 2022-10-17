@@ -52,7 +52,7 @@ Create a text classification api which accepts a news article or a sentence from
 
 News article data is collected by refering my another repo <a href="https://github.com/sarang0909/news_api">news api</a>. 
 
-Then sample 100 sentences annotated using <a href="https://github.com/sarang0909/news_api">doccano</a>,a data annotation tool. Please note that since this is just a demo project,we have not used huge data. We have used only 100 sentences. In reality,data might be huge and any other data annotation technique can be used.  
+Then sample 100 sentences annotated using <a href="https://doccano.github.io/doccano/">doccano</a>,a data annotation tool. Please note that since this is just a demo project,we have not used huge data. We have used only 100 sentences. In reality,data might be huge and any other data annotation technique can be used.  
 
 ### Model Building   
  
