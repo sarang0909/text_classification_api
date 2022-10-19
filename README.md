@@ -21,7 +21,7 @@ The models are developed on very small data.
 
 This code can be used for end to end text classification project development as well as deployment.  
 
-https://user-images.githubusercontent.com/31824267/196748556-8620c7f9-b300-4ed7-9c2e-b3297e3e7062.mp4
+
 
 
  
