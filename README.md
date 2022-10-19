@@ -20,6 +20,10 @@ The models are developed on very small data.
 
 
 This code can be used for end to end text classification project development as well as deployment.  
+
+https://user-images.githubusercontent.com/31824267/196748556-8620c7f9-b300-4ed7-9c2e-b3297e3e7062.mp4
+
+
  
 If you are only looking to learn/use model building techniques,directly jump to notebooks:   
 1.[Text Classification using TF-IDF and Pycaret](src/training/tfidf_pycaret.ipynb)    
@@ -177,9 +181,11 @@ Here we have created ML inference on FastAPI server with dummy model output.
       conda activate text_classification_api  
       streamlit run main_streamlit.py 
   ```  
-![alt text](docs/streamlit_first.jpg?raw=true)
-![alt text](docs/streamlit_second.jpg?raw=true)
- 
+
+https://user-images.githubusercontent.com/31824267/196748661-b75f8867-8a54-4170-9887-31d8a402a1df.mp4
+
+
+
 ### Unit Testing
 1. Go inside 'tests' folder on command line.
 2. Run:
