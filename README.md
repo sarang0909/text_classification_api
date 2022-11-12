@@ -1,5 +1,5 @@
 # text_classification_api : Production Ready Code
-
+https://user-images.githubusercontent.com/31824267/196748661-b75f8867-8a54-4170-9887-31d8a402a1df.mp4
 
 ## About  
 This is a project developed to create a code template and to understand different text classification techniques. This project includes different training notebooks to create different kind of text classification models. This project also includes a code to make productionaized text classification api using standard practices in MLOps.   
@@ -182,7 +182,7 @@ Here we have created ML inference on FastAPI server with dummy model output.
       streamlit run main_streamlit.py 
   ```  
 
-https://user-images.githubusercontent.com/31824267/196748661-b75f8867-8a54-4170-9887-31d8a402a1df.mp4
+
 
 
 
